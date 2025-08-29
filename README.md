@@ -64,7 +64,7 @@ The dataset used for training is the [**Emotion Detection FER Dataset**](https:/
 
 ## 📹 Real-Time Emotion Detection
 
-After training, the model was exported as a **`.pkl` file**.  
+After training, the model was exported as a **`model.pkl` file**.  
 A separate Python script was created (`emotion_detection.py`) to use the saved model for **real-time emotion detection** with a webcam in **VS Code**.  
 
 ---
